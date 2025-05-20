@@ -1,7 +1,9 @@
 # "OpenCV for functional response research" Dataset
 
 This repository contains the dataset used for the published journal article entitled 
-**Functional Response of _Orius strigicollis_: Impact of Prey Species, Host Plant, and Predator Sex on Predation Efficiency**.
+**Impact of prey species, host plant, and predator sex on the functional response of _Orius strigicollis_**.
+
+DOI: https://doi.org/10.1038/s41598-025-00567-5
 
 ## 📂 Data Description for functional reponse data
 - **Source:** The predation data were collect by Yi-Ting Hung, Yi-Ting Chung, Wei-Han Lai, and Han-Yan Ding. 
